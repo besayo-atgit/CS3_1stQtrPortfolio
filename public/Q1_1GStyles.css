@@ -1,0 +1,29 @@
+.rb_scroll_anim {
+    font-size: 42px;
+    font-family: 'Times New Roman', Times, serif Black, Gadget, sans-serif;
+    position: absolute;
+    animation: rainbow-color-change 15s linear infinite alternate;
+    cursor: grab;
+}
+@keyframes rainbow-color-change {
+    0%, 
+    100% { color: #ff0000;} 
+    14% { color: #ff8b00; 
+          font-family: 'Courier New', Courier, monospace;
+          left:0px}
+    28% { color: #e8ff00; 
+          font-family: Arial, Helvetica, sans-serif;
+          left:500px} 
+    42% { color: #5dff00; 
+          font-family: Impact, 'Arial Narrow Bold', sans-serif;
+          left:1000px} 
+    56% { color: #00b9ff; 
+          font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+          left:500px}  
+    70% { color: #5d00ff; 
+          font-family: 'Times New Roman', Times, serif;
+          left:0px} 
+    84% { color: #e800ff; 
+          font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+          left:0px} 
+}
