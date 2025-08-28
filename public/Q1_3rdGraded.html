@@ -19,7 +19,7 @@
         const tip = parseFloat(document.getElementById("tip").value);
         const serviceCharge = parseFloat(document.getElementById("serviceCharge").value);
 
-        total = (mealPrice + tip) + (mealPrice * serviceCharge / 100);
+        total = (mealPrice + tip) + (mealPrice * serviceCharge/100);
 
         totalOutput.innerHTML = "<br>" + "Total Amount: PhP" + total.toFixed(6);
         alert("Total Amount: PhP" + total.toFixed(2));
