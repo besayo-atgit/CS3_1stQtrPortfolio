@@ -29,14 +29,19 @@ These basically allow mathematical and arithmetic operations within the code tha
 * # List at least 5 topics that you know and can describe but needs further practice/discussion and why.  The why should be per topic listed.  
 
 * Pre-existing Functions
+
 Sometimes I forget how and when to use these functions properly and effectively.
 * Algorithms
+
 I feel like conceptualizing algorithms for certain computational processes should be tackled more.
 * Debugging
+
 This concept is really tedious and I feel like I need a lot of help understanding and debugging code.
 * Variable Types
+
 Sometimes I get confused on what two variable types that undergo arithmetics output.
 * Nested for loops
+
 For loop are confusing enough and I feel like nested ones need to be studied more for me.
 
 * # Describe on what will be your plan of action in order to help yourself in understanding further the topics listed on the second items.
